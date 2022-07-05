@@ -1,4 +1,5 @@
-# 1.-hafta-proje 
+# https://app.patika.dev/iremnazocal
+1.-hafta-proje 
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
